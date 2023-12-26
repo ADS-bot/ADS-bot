@@ -1,85 +1,99 @@
-<h1 align="center"><img height="200px" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /></h1>
-
-
 <div align="center">
-  <img src ="./banner.png" />
-  
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
- <br/>
+###
 
-## 👨🏻‍💻 About Me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/arghadeep-saha-b20379255/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/ads_8228" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="25"/>
+  </a>
+  <a href="https://instagram.com/ads_8228" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+###
 
-- 🙋‍♂️ All about me is at **[My Website](https://react-portfolio-ads-bot.vercel.app/)**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ADS-bot.ADS-bot"  />
+</div>
 
-- 🔭 I’m currently working on `Something Interesting`.
+###
 
-- 🌱 I’m currently learning `MERN Stack`
+<h1 align="center">Hey There 👋</h1>
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+###
 
-- 🤔 I’m looking for help with `Competitive Programming`
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+###
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+<p align="left">I'm Arghadeep Saha aka ADS.<br><br>- 🔭 I’m studying at KiiT University.<br>- 📚 I'm currently learning Flutter, Nodejs & ReactJs<br>- ⚡ In my free time I usually drive on CARLA</p>
 
-- ⚡ Fun fact: I waste most of my time playing games
+###
 
-## 🛠️ Technologies and Tools I use:
+<h3 align="left">🛠 Language and tools</h3>
 
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-</p>
+###
 
-## ❤️ Let's get connected:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+</div>
 
-<p><a href="https://twitter.com/ads_8228" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/arghadeep-saha-b20379255/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://instagram.com/https://instagram.com/ads_8228" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+###
 
+<h3 align="left">🔥   My Stats :</h3>
 
-## 📊 My GitHub Data:
+###
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADS-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-</div>
+</div><br>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ADS-bot&theme=dark&hide_border=false" />
-</div>
+</div><br>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADS-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
-## 🏆 GitHub Trophies :
+###
+
+<h3 align="left">🏆 GitHub Trophies :</h3>
+
+###
 <div align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ADS-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-## 🐦 Latest Tweet :
-<div align="center">
-<img align="center" src="https://gtce.itsvg.in/api?username=https://twitter.com/ads_8228)](https://github.com/VishwaGauravIn/github-twitter-card-embed" />
-</div>
+
+###
