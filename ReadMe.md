@@ -58,7 +58,7 @@
 
 ## ❤️ Let's get connected:
 
-<p> <a href="https://twitter.com/ads_8228" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/arghadeep-saha-b20379255/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://instagram.com/https://instagram.com/ads_8228" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p><a href="https://twitter.com/ads_8228" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/arghadeep-saha-b20379255/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://instagram.com/https://instagram.com/ads_8228" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 
@@ -66,8 +66,12 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADS-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ADS-bot&theme=dark&hide_border=false" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADS-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</div><br>
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ADS-bot&theme=dark&hide_border=false" />
+</div><br>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADS-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ## 🏆 GitHub Trophies :
