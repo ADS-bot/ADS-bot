@@ -12,7 +12,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website]()**
+- 🙋‍♂️ All about me is at **[My Website](https://react-portfolio-ads-bot.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Interesting`.
 
@@ -66,10 +66,10 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADS-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-</div><br>
+</div>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ADS-bot&theme=dark&hide_border=false" />
-</div><br>
+</div>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADS-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
