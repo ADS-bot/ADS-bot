@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[banner.png](https://github.com/ADS-bot/ADS-bot/blob/0d9ef11064f5bedde6aa7d6482f42b4008483d96/thoughtworks-gif_dribbble.gif)"  />
+  <img height="150" src="https://github.com/ADS-bot/ADS-bot/blob/7790ff27462ec4b0b942c65f18f2ccf85dc3b9bd/banner.png"  />
 </div>
 
 ###
