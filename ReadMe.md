@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Arghadeep Saha aka ADS.<br><br>- 🔭 I’m studying at KiiT University.<br>- 📚 I'm currently mastering Development<br>- ⚡ In my free time I usually drive on CARLA</p>
+<p align="left">I'm Arghadeep Saha aka ADS.<br><br>- 🔭 I’m studying at KiiT University.<br>- 📚 I'm currently mastering Development.<br>- ⚡ In my free time I usually drive on CARLA.</p>
 
 ###
 
