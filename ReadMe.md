@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  <b><span style="font-size: 48px;">Hey There</span></b> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+  <b><h1>Hey There</h1></b> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ###
 
