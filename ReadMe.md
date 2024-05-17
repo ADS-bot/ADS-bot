@@ -1,4 +1,4 @@
-<div align="center">![]https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif</div>
+<h1 align="center">Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
 
 ###
 
@@ -19,10 +19,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ADS-bot.ADS-bot"  />
 </div>
-
-###
-
-<h1 align="center">Hey There 👋</h1>
 
 ###
 
